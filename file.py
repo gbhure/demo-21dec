@@ -1,5 +1,5 @@
 print('hello world')
-second line
-thirdline
-forth line
-fiftthine
+x = 100
+y = 200
+
+print(f'Sum of {x} and {y} is: {x+y}')
